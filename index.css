@@ -1,0 +1,19 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.container >div {
+    font-size: 30px;
+    border-radius: 15px;
+    border: 5px solid black;
+    width: inherit;
+    height: inherit;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+}
+
